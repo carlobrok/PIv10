@@ -11,7 +11,7 @@ Computer vision algorithm for RoboCup Rescue Line.
 
 ## VideoServer 
 
-In the VideoServer class, a new thread is started, so the output images can be streamed from the Raspberry Pi's IP-address.
+In the VideoServer class, a new thread is started, so the output images can be streamed from the Raspberry Pi's IP-address using a VideoClient program (not published).
 
 
 ## Issues 
