@@ -5,7 +5,8 @@ Computer vision algorithm for RoboCup Rescue Line.
 
 * Raspberry Pi
 * Raspbian or other Linux operating system
-* OpenCV 4 or newer Version (recommended), [Install guide for OpenCV 4.1.0](https://docs.opencv.org/4.1.0/d7/d9f/tutorial_linux_install.html)
+* OpenCV 4 or newer Version (recommended), [Install guide for OpenCV 4.1.0](https://docs.opencv.org/4.1.0/d7/d9f/tutorial_linux_install.html)  
+  **Important:** after finishing the installation run `sudo ldconfig`
 * WiringPi, install with `sudo apt-get install wiringpi`
 * Boost, install with `sudo apt-get install libboost-all-dev`
 
